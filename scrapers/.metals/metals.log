@@ -1,0 +1,35 @@
+2020.09.08 14:26:26 INFO  started: Metals version 0.9.3 in workspace '/Users/athers01/Code/scrapers' for client vscode.
+2020.09.08 14:26:35 INFO  time: initialize in 9.54s
+2020.09.08 14:26:39 WARN  no build tool detected in workspace '/Users/athers01/Code/scrapers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 14, 2020 9:30:24 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 24, 2020 10:57:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 24, 2020 11:56:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Sep 24, 2020 11:56:11 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.10.05 08:58:53 INFO  no build target: using presentation compiler with only scala-library
+2020.10.05 08:58:58 WARN  no build target for: /Users/athers01/Code/cps-stacks/src/test/scala/bbc/cps/CosmosSpec.scala
+2020.10.05 08:59:29 WARN  no build target for: /Users/athers01/Code/cps-stacks/src/main/scala/bbc/cps/Stack.scala
+2020.10.05 09:00:01 WARN  no build target for: /Users/athers01/Code/cps-stacks/src/main/scala/bbc/cps/Stacks.scala
+2020.10.05 09:00:38 WARN  no build tool detected in workspace '/Users/athers01/Code/scrapers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Oct 05, 2020 9:00:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+Oct 05, 2020 9:00:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+2020.10.05 09:03:33 WARN  no build tool detected in workspace '/Users/athers01/Code/scrapers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.05 09:03:34 WARN  no build tool detected in workspace '/Users/athers01/Code/scrapers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.05 09:03:34 WARN  no build target for: /Users/athers01/Code/cps-stacks/src/main/scala/bbc/cps/Stacks.scala
+2020.10.05 09:03:34 WARN  no build tool detected in workspace '/Users/athers01/Code/scrapers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.05 09:06:46 WARN  no build tool detected in workspace '/Users/athers01/Code/scrapers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.05 09:06:47 WARN  no build tool detected in workspace '/Users/athers01/Code/scrapers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.06 08:57:05 INFO  shutting down Metals
+2020.10.06 09:02:15 INFO  started: Metals version 0.9.4 in workspace '/Users/athers01/Code/scrapers' for client vscode.
+2020.10.06 09:02:25 INFO  time: initialize in 10s
+2020.10.06 09:02:28 WARN  no build tool detected in workspace '/Users/athers01/Code/scrapers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.06 09:04:24 INFO  shutting down Metals
+2020.10.06 09:04:47 INFO  started: Metals version 0.9.4 in workspace '/Users/athers01/Code/scrapers' for client vscode.
+2020.10.06 09:04:49 INFO  time: initialize in 1.57s
+2020.10.06 09:04:50 WARN  no build tool detected in workspace '/Users/athers01/Code/scrapers'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.08 11:56:16 INFO  shutting down Metals

@@ -1,0 +1,17 @@
+{
+  "name": "scrapers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "xml2js": "^0.4.23"
+  }
+}
